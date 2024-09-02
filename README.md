@@ -5,5 +5,5 @@ This is a go linked list implementation to learn and practice about go generics 
 - [x] init repo
 - [x] simple linked list for initial commit
 - [ ] generic linked list
-	- [ ] generic singly linked list
+	- [x] generic singly linked list
 	- [ ] generic doubbly linked list 
