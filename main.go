@@ -18,4 +18,12 @@ func main() {
 	}
 
 	list.PrintList()
+
+	genericList := NewGenericList[int]()
+
+	for i := 7; i < 18; i++ {
+		genericList.AddItem(i)
+	}
+
+	genericList.PrintList()
 }
